@@ -3,16 +3,23 @@ layout: default
 ---
 
 # Portfolio
+<a href="https://cwnstae.github.io/amazon-sales/">
+  <img alt="Airbnb Analysis" width="400" height="400" src="https://github.com/user-attachments/assets/000415d6-ba6b-4507-bbd4-090c717a8b85" style="display: block; margin: 0 auto;" />
+</a>
+<div style="text-align: center;">Project 1: Amazon Sales EDA</div>
+
+<br><br><br>
+
 <a href="https://cwnstae.github.io/airbnb-analysis/">
   <img alt="Airbnb Analysis" width="400" height="400" src="https://raw.githubusercontent.com/cwnstae/cwnstae.github.io/main/assets/Airbnb-cover_1.jpg" style="display: block; margin: 0 auto;" />
 </a>
-<div style="text-align: center;">Project 1: Airbnb Analysis</div>
+<div style="text-align: center;">Project 2: Airbnb Analysis</div>
 
 <br><br><br>
 
 <a href="https://cwnstae.github.io/titanic-disaster/">
   <img alt="Airbnb Analysis" width="400" height="400" src="https://raw.githubusercontent.com/cwnstae/cwnstae.github.io/main/assets/Titanic-Disater-Cover.jpg" style="display: block; margin: 0 auto;" />
 </a>
-<div style="text-align: center;">Project 2: Machine Learning - Titanic Disaster</div>
+<div style="text-align: center;">Project 3: Machine Learning - Titanic Disaster</div>
 
 
